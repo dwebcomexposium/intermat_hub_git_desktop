@@ -622,3 +622,13 @@ body.Woc svg.pie-graph {display: none }*/
 .cc-cookies a {color: #fff; }
 
 .cc-cookies .inside { padding: 18px 150px 17px 150px; }
+
+
+/* Ajustement newsletter */
+.newsletter-form h2.nf-title {
+    visibility: hidden;
+}
+
+.block.block-page.newsletter-form.userAccount-newsletter.is-open {
+    top: 145px !important;
+}
